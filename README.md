@@ -1,5 +1,5 @@
 # 🚀 [Nama Proyek]  
-Deskripsi singkat proyekmu. Jelaskan secara ringkas tujuan dan fungsinya.  
+tugas untuk membuat portofolio .  
 
 ## 🎨 Demo  
 [Klik di sini untuk melihat demo](https://your-live-demo-link.com)  
